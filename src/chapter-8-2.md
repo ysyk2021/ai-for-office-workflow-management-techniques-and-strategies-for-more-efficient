@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-=========================================================================================================================
 
 As AI technology continues to advance, there are many new and exciting trends emerging in the field of office workflow management. In this chapter, we'll explore some of the new opportunities that these trends are unlocking.
 

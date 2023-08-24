@@ -1,5 +1,3 @@
-Chapter 6: Streamlining Administrative Tasks with AI
-====================================================
 
 Administrative tasks can take up a significant amount of time and resources in any organization. Fortunately, AI has made it possible to streamline many of these tasks, making them more efficient and effective than ever before.
 

@@ -1,5 +1,3 @@
-Importance of Ethical and Unbiased Office Workflow Management Practices
-=====================================================================================================================================================
 
 As with any use of artificial intelligence (AI), it's important to consider the ethical implications of implementing AI-enabled office workflow management practices. In this chapter, we will explore the importance of managing ethics and bias in AI-enabled office workflow management and ways to ensure that these systems are ethical and unbiased.
 

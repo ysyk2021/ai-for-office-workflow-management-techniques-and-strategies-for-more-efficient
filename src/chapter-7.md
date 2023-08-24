@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Enabled Office Workflow Management
-============================================================================
 
 As AI technology continues to be integrated into office workflow management, ensuring ethical and unbiased practices is essential. In this chapter, we'll explore the importance of prioritizing ethical and unbiased practices in office workflow management and strategies for mitigating risks and ensuring compliance.
 

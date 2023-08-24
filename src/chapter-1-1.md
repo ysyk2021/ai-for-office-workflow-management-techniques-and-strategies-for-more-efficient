@@ -1,5 +1,3 @@
-Understanding the Role of AI in Office Workflow Management
-========================================================================================================================
 
 AI-powered systems are transforming office workflow management, streamlining and optimizing processes for increased efficiency and productivity. In this chapter, we will discuss the role of AI in office workflow management.
 

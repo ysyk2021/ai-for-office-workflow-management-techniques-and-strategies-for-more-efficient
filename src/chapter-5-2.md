@@ -1,5 +1,3 @@
-Personalized Recommender Systems for Document Organization and Retrieval using AI
-============================================================================================================================================
 
 Efficient document and data management is crucial for the success of any business. In this chapter, we will explore how artificial intelligence (AI) can be used to improve document and data management through personalized recommender systems.
 

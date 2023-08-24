@@ -1,5 +1,3 @@
-Emerging Trends in AI for Office Workflow Management and Productivity
-===========================================================================================================================================================
 
 As the field of artificial intelligence (AI) continues to evolve, there are numerous emerging trends and opportunities for AI-enabled office workflow management. In this chapter, we will explore some of the future trends and opportunities for AI in office workflow management and productivity.
 

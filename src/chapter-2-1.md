@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-========================================================================================================================
 
 AI-powered systems offer a range of tools and technologies to streamline and optimize office workflow management. In this chapter, we will provide an overview of the available tools and technologies and their applications in office workflow management.
 

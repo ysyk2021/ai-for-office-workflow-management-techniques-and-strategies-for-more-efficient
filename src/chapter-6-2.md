@@ -1,5 +1,3 @@
-Automated Expense Reporting and Travel Planning using AI
-==============================================================================================================
 
 Administrative tasks such as expense reporting and travel planning can be time-consuming and tedious, taking away from more strategic work. In this chapter, we'll explore how AI can streamline these tasks through automated expense reporting and travel planning.
 

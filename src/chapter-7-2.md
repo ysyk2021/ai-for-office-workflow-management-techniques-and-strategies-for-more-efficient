@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-======================================================================================================================
 
 As AI becomes more prevalent in office workflow management, it's important to manage the risks associated with implementing AI and ensure compliance with relevant laws and regulations. In this chapter, we'll explore strategies for mitigating risks and ensuring compliance in AI-enabled office workflow management.
 
