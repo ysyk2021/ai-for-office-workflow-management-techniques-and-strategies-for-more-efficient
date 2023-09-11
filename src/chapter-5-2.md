@@ -1,5 +1,4 @@
-**Chapter: Personalized Recommender Systems for Document Organization and Retrieval using AI**
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
